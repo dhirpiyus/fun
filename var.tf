@@ -1,11 +1,11 @@
 variable "project" {
   type    = string
-  default = ""
+  default = "unit are made for good"
 }
 
 variable "region" {
   type    = string
-  default = ""
+  default = "lets not discuss"
 }
 
 variable "file_name" {
